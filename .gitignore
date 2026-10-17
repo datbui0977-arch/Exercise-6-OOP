@@ -3,4 +3,6 @@ bin/
 obj/
 .vs/
 .vscode/
+BuiTienDat202418866.docx
+~$iTienDat202418866.docx
 "@ | Set-Content .gitignore
